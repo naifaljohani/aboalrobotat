@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ESRXPRIC
 
 [Document2]
+DocumentPath=C:\Users\user\Downloads\150120RS75000\150120RS75000.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXWDUXRU
+
+[Document3]
 DocumentPath=C:\Users\Public\Documents\Altium\AD20\Library\Miscellaneous Connectors\Miscellaneous Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DHPFJUIJ
 
-[Document3]
+[Document4]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWCVPEYY
 
-[Document4]
+[Document5]
+DocumentPath=C:\Users\user\Downloads\150120RS75000\LEDC3216X78N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFGHXMUP
+
+[Document6]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OHBBPQWQ
 
-[Document5]
+[Document7]
 DocumentPath=ESP32_HID.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSLMGVNF
 
-[Document6]
+[Document8]
 DocumentPath=U:\esp32_s2_solo_robot\esp32_s2_solo_rpbot\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCFVLNDM
 
-[Document7]
+[Document9]
 DocumentPath=U:\esp32_s2_solo_robot\esp32_s2_solo_rpbot\Schlib2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRQMYGMP
 
-[Document8]
+[Document10]
 DocumentPath=ESP32_S2_solo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFRKXKUM
 
-[Document9]
+[Document11]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKQZRFRK
 
-[Document10]
+[Document12]
 DocumentPath=Power Regulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFEPHEHL
 
-[Document11]
+[Document13]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document14]
 DocumentPath=Job2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document15]
 DocumentPath=DC Motor Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZLSGXUI
 
-[Document14]
+[Document16]
 DocumentPath=DC Motor Control_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKMHGPOA
 
-[Document15]
+[Document17]
 DocumentPath=ESP32_S2_solo.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document18]
 DocumentPath=C:\Users\Public\Documents\Altium\AD20\Library\Miscellaneous Connectors\Miscellaneous Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVXVCLQC
 
-[Document17]
+[Document19]
 DocumentPath=C:\Users\Public\Documents\Altium\AD20\Library\Miscellaneous Devices\Miscellaneous Devices.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document20]
 DocumentPath=C:\Users\Public\Documents\Altium\AD20\Library\Miscellaneous Devices\Miscellaneous Devices.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -353,9 +387,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EBPSFQJJ
 
-[Document19]
+[Document21]
 DocumentPath=DC Motor Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document22]
 DocumentPath=DC Motor Control_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
