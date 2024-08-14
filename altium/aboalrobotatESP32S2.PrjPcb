@@ -1342,7 +1342,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document77]
-DocumentPath=Motor_Encoder.SchDoc
+DocumentPath=Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
