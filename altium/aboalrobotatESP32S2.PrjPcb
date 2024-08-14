@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=LQVQYUSY
 
 [Document3]
+DocumentPath=libraries\naiflibaries\HC-SR04\XCVR_HC-SR04.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QELRNAGR
+
+[Document4]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\VMA107.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZZWUEAZC
 
-[Document4]
+[Document5]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\USB4125-GF-A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVWYXIOQ
 
-[Document5]
+[Document6]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\USB4125-GF-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MKYUMBLT
 
-[Document6]
+[Document7]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\USB4105-GF-A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTSPLYVI
 
-[Document7]
+[Document8]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\USB4105-GF-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPBXQDYJ
 
-[Document8]
+[Document9]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\TYPE-C 16PIN 2MD (073).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPPNELAJ
 
-[Document9]
+[Document10]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\TYPE-C 16PIN 2MD (073).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPUHLGGS
 
-[Document10]
+[Document11]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\TSW-101-24-T-S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOZPIXUB
 
-[Document11]
+[Document12]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\TSW-101-24-T-S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EDYWACJP
 
-[Document12]
+[Document13]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\SR2612F-0112-21R0B-D8-N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMYKTRVB
 
-[Document13]
+[Document14]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\SR2612F-0112-21R0B-D8-N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMXOWPCS
 
-[Document14]
+[Document15]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\NodeMCU v2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NYEBFCRM
 
-[Document15]
+[Document16]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\NodeMCU v2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UZYDZHEP
 
-[Document16]
+[Document17]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\NCP1117STAT3G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRKDCDJO
 
-[Document17]
+[Document18]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\NCP1117STAT3G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSNPVNBB
 
-[Document18]
+[Document19]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\MIC5205-2.5YM5-TR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLCIIQVI
 
-[Document19]
+[Document20]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\MIC5205-2.5YM5-TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQHENCWL
 
-[Document20]
+[Document21]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\LESD5D5.0CT1G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMWKYRRT
 
-[Document21]
+[Document22]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\LESD5D5.0CT1G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RGPZMYPQ
 
-[Document22]
+[Document23]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\LD051A121KAB2A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKCMABEP
 
-[Document23]
+[Document24]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\LD051A121KAB2A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMCYSAMZ
 
-[Document24]
+[Document25]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\FSM4JSMA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXEUALIU
 
-[Document25]
+[Document26]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\FSM4JSMA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFVLNRAD
 
-[Document26]
+[Document27]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ESP32-S2-SOLO-U-N4R2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDRNMFGE
 
-[Document27]
+[Document28]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ESP32-S2-SOLO-U-N4R2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGELGMEF
 
-[Document28]
+[Document29]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\EEE-HA1V101UP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMSIALRN
 
-[Document29]
+[Document30]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\EEE-HA1V101UP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DEQBSVTS
 
-[Document30]
+[Document31]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ECS-51-S-1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFZMUFZB
 
-[Document31]
+[Document32]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ECS-51-S-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MESFWYZP
 
-[Document32]
+[Document33]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\DRV8833PWPR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DITCADBL
 
-[Document33]
+[Document34]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\DRV8833PWPR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +627,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMSGXUKV
 
-[Document34]
+[Document35]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\Ch340G.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -627,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETGKXBKC
 
-[Document35]
+[Document36]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\Ch340G.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -644,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGRJMXKP
 
-[Document36]
+[Document37]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BLM31PG330SN1L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -661,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOMXDNMS
 
-[Document37]
+[Document38]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BLM31PG330SN1L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +695,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUVULQSQ
 
-[Document38]
+[Document39]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BH4AA-W.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +712,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OBOXKCKI
 
-[Document39]
+[Document40]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BH4AA-W.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,7 +729,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJQIFYZO
 
-[Document40]
+[Document41]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BC846BW RF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -729,7 +746,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EZRCPEUJ
 
-[Document41]
+[Document42]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BC846BW RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFENAUXS
 
-[Document42]
+[Document43]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BC4AAPC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,7 +780,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHMQLBPK
 
-[Document43]
+[Document44]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\BC4AAPC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -780,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHBWBUFX
 
-[Document44]
+[Document45]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ABM8W-32.0000MHZ-6-B1U-T3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -797,7 +814,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XREMRHDS
 
-[Document45]
+[Document46]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ABM8W-32.0000MHZ-6-B1U-T3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +831,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBLUBMCB
 
-[Document46]
+[Document47]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ABM7-16.000MHZ-D2Y-T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -831,7 +848,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIYDTVOH
 
-[Document47]
+[Document48]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\ABM7-16.000MHZ-D2Y-T.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -848,7 +865,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZJBYCCQT
 
-[Document48]
+[Document49]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\217175-0001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +882,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=POONDNJD
 
-[Document49]
+[Document50]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\217175-0001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,7 +899,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QACOPGWY
 
-[Document50]
+[Document51]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\2-1879462-9.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -899,7 +916,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFVNGELK
 
-[Document51]
+[Document52]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\2-1879462-9.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -916,7 +933,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESAVVJZP
 
-[Document52]
+[Document53]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\1N5819HW-7-F.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -933,7 +950,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVVRJRGD
 
-[Document53]
+[Document54]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\1N5819HW-7-F.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -950,7 +967,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document54]
+[Document55]
 DocumentPath=libraries\SnapEDA_Library\SnapEDA_Library.IntLib\SnapEDA_Library\1-1879462-4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document55]
+[Document56]
 DocumentPath=libraries\Miscellaneous Connectors\Miscellaneous Connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -984,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document57]
 DocumentPath=libraries\naiflibaries\Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -999,9 +1016,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CWCVPEYY
 
-[Document57]
+[Document58]
 DocumentPath=libraries\naiflibaries\LEDC3216X78N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1016,9 +1033,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XFGHXMUP
 
-[Document58]
+[Document59]
 DocumentPath=ESP32_HID.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1035,7 +1052,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSLMGVNF
 
-[Document59]
+[Document60]
 DocumentPath=libraries\naiflibaries\PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1050,9 +1067,26 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BCFVLNDM
 
-[Document60]
+[Document61]
+DocumentPath=libraries\naiflibaries\HC-SR04\HC-SR04.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BXSMWIEU
+
+[Document62]
 DocumentPath=libraries\naiflibaries\Schlib2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1067,9 +1101,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CRQMYGMP
 
-[Document61]
+[Document63]
 DocumentPath=ESP32_S2_solo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1120,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFRKXKUM
 
-[Document62]
+[Document64]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1103,7 +1137,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKQZRFRK
 
-[Document63]
+[Document65]
 DocumentPath=Power Regulation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1120,7 +1154,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFEPHEHL
 
-[Document64]
+[Document66]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1137,7 +1171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
+[Document67]
 DocumentPath=Job2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1154,7 +1188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document66]
+[Document68]
 DocumentPath=DC Motor Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1171,7 +1205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZLSGXUI
 
-[Document67]
+[Document69]
 DocumentPath=DC Motor Control_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1188,7 +1222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKMHGPOA
 
-[Document68]
+[Document70]
 DocumentPath=ESP32_S2_solo.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1205,7 +1239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document71]
 DocumentPath=libraries\naiflibaries\CAPAE660X550N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1222,7 +1256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document72]
 DocumentPath=libraries\Miscellaneous Connectors\Miscellaneous Connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1239,7 +1273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document73]
 DocumentPath=libraries\Miscellaneous Devices\Miscellaneous Devices.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1256,7 +1290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document74]
 DocumentPath=libraries\Miscellaneous Devices\Miscellaneous Devices.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1273,7 +1307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document75]
 DocumentPath=DC Motor Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1290,7 +1324,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document76]
 DocumentPath=DC Motor Control_2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1307,7 +1341,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document77]
 DocumentPath=Motor_Encoder.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1460,36 +1494,26 @@ OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=SIMetrixNetlist
-OutputName18=SIMetrix
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=SIMPLISNetlist
-OutputName19=SIMPLIS
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=TangoNetlist
-OutputName20=Tango Netlist
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=TelesisNetlist
-OutputName21=Telesis Netlist
+OutputType21=XSpiceNetlist
+OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=WireListNetlist
-OutputName22=WireList Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=Mixed Sim Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1501,16 +1525,6 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
