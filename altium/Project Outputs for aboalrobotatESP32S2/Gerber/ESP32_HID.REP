@@ -13,10 +13,10 @@ Generating : Bottom Layer
 Used DCodes :
     D11
     D15
-    D20
     D21
+    D22
     D30
-    D81
+    D78
     D93
     D94
     D95
@@ -34,7 +34,20 @@ Used DCodes :
     D107
     D108
     D109
-    D110
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ESP32_HID_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
 *************************************************************
 
 *************************************************************
@@ -47,7 +60,7 @@ Generating : Layer 1
 
 
 Used DCodes :
-    D81
+    D78
     D96
     D97
     D98
@@ -60,54 +73,23 @@ Used DCodes :
     D106
     D107
     D108
-    D109
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : ESP32_HID_Paste_Bot.gbr
+Generating : Top Overlay
+      File : ESP32_HID_Legend_Top.gbr
 
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D20
-    D21
-    D30
-    D110
-*************************************************************
-
-*************************************************************
-Generating : Layer 2
-      File : ESP32_HID_Copper_Signal_2.gbr
-
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D10
     D11
-    D81
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
+    D12
+    D13
+    D14
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -152,6 +134,147 @@ Used DCodes :
     D44
     D45
     D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ESP32_HID_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D61
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D110
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ESP32_HID_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D48
+    D78
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : ESP32_HID_Copper_Signal_2.gbr
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D78
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ESP32_HID_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D30
+    D109
 *************************************************************
 
 *************************************************************
@@ -215,138 +338,11 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : ESP32_HID_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : ESP32_HID_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D50
-    D51
-    D61
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D111
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : ESP32_HID_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : ESP32_HID_Copper_Signal_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D15
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D57
-    D81
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-*************************************************************
-
-*************************************************************
 Generating : Profile
       File : ESP32_HID_Profile.gbr
 
 
 Used DCodes :
-    D112
+    D111
 *************************************************************
 
