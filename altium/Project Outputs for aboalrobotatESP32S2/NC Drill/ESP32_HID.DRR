@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32_HID.PcbDoc   8/30/2024  11:35:06 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32_HID-RoundHoles.TXT
+ASCII SlotHoles File : ESP32_HID-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             161       PTH        1247.18mm (49.10inch)
+T2      0.6mm (24mil)                                             Slot              8         PTH        330.25mm (13.00inch)
+T3      0.8mm (31mil)                                             Round             16        PTH        248.90mm (9.80inch)
+T4      0.9mm (35mil)                                             Round             354       PTH        1853.57mm (72.98inch)
+T5      3mm (118mil)                                              Round             14        PTH        801.85mm (31.57inch)
+T6      13mm (512mil)                                             Round             4         PTH        155.38mm (6.12inch)
+T7      0.65mm (26mil)                                            Round             4         NPTH       140.10mm (5.52inch)
+T8      1.98mm (78mil)                                            Round             2         NPTH       31.00mm (1.22inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              563
+
+Total Processing Time (hh:mm:ss) : 00:00:00

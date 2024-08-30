@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\aboalrobotat\aboalrobotat\altium\ESP32_HID.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32_hid-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32_hid-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

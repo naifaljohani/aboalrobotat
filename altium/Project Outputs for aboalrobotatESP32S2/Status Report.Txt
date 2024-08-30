@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ESP32_HID.PcbDoc]
+   Generated File[ESP32_HID-RoundHoles.TXT]
+   Generated File[ESP32_HID-SlotHoles.TXT]
+   Generated File[ESP32_HID.LDP]
+   Generated File[ESP32_HID.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:35:06 AM On 8/30/2024
