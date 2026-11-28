@@ -1,0 +1,29 @@
+# Altium automatic backups and logs
+History/
+**/History/
+Project Logs for */
+*.LOG
+__Previews/
+*.PcbDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+
+# Third-party part libraries (download from SnapEDA / Altium, see README)
+altium/libraries/SnapEDA_Library/
+altium/libraries/Miscellaneous Connectors/
+altium/libraries/Miscellaneous Devices*/
+altium/libraries/naiflibaries/*.IntLib
+altium/libraries/naiflibaries/*--3DModel-STEP-*.STEP
+altium/libraries/naiflibaries/*/
+
+# Old project outputs
+altium/Project Outputs for ESP32_HID/
+altium/Project Outputs for ESP32_HID_GLCD/
+altium/Project Outputs for Free Documents/
+
+# Datasheets and videos (large / third-party)
+*.pdf
+*.m4v
+*.wmv
+*.mp4
+*.avi
