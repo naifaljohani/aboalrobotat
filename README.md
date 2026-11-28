@@ -2,16 +2,6 @@
   <img src="media/pcb_3d.gif" alt="aboalrobotat PCB 3D view" width="600">
 </p>
 
-# aboalrobotat
-Basic 3 motor robot based on esp32_s2_solo module
-
-> [!WARNING]
-> **The hardware design and firmware are provided "AS IS", with no warranty of any kind.**
-> This is a hobby project. It hasn't been certified or safety tested, and it is not guaranteed to work or to be fit for any purpose.
-> **You build and use it entirely at your own risk.**
-> The author accepts **no liability** for any damage, injury or loss that comes from using these files or any device made from them.
-> This disclaimer is set out in section 5 of the CERN-OHL-P and in the MIT License.
-
 ## Hardware
 
 The Altium Designer project is in [`altium/`](altium/). Open `altium/aboalrobotatESP32S2.PrjPcb`.
